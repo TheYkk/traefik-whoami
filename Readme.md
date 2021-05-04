@@ -1,6 +1,6 @@
 # Traefik with letsencrypt in docker compose    
 
-Example docker-compose project to run traefik + whoami with ssl certificate easly.
+Example docker-compose project to run traefik + whoami with ssl certificate easily.
 
 
 ## Edit docker-compose
