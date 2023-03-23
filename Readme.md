@@ -37,4 +37,4 @@ Traefik has basic auth middleware, so you need to enter this user password.
 
 | Username | Password |
 |----------|----------|
-| user     | pass     |
+| user     | password |
